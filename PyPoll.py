@@ -40,6 +40,7 @@ with open(file_to_load) as election_data:
         # Get candidate name from each row 
         candidate_name = row[2]
         
+        
         # If the candidate has not been added to candidate option: meaning does not match any existing candidate
         if candidate_name not in candidate_options: 
             #Adding candidate name to the list of cadidates
