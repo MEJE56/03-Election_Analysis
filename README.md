@@ -32,9 +32,9 @@ A Colorado Board of Elections has requested an election analysis to complete teh
   * *Charles Casper Stockham* received 23.0% of the vote and 85,213 number of votes
   * *Diana DeGette* received 73.8% of the vote and 272,892 number of votes
   * *Raymon Anthony Doane* received 3.1% of the vote and 11,606 number of votes
-* The winner of the electiob was:
+* The winner of the election was:
   * *Diana DeGette*, who received 73.8% of the vote and 272,892 number of votes
 
 ## Conclusions Proposal
 The project enable the team get familiar with the data of the election result for Colorado state, while developing the team was able to develop a standard code *called PyPoll* to read and analyse the data. 
-PyPoll can be easily reuse make broader analysis. The set of data elections_reulst.csv contained 3 candidates, 3 counties and 369,711 register (votes), this items can be extrapolated to more counties (the whole estate), more candidates, and why not take care of a Presidetial election. Even more data can be analyze, such us race and ethnicity could be incorporated to the statistics of the election.
+PyPoll can be easily reused make broader analysis. The set of data elections_reulst.csv contained 3 candidates, 3 counties and 369,711 register (votes), this items can be extrapolated to more counties (the whole estate), more candidates, and why not take care of a Presidetial election. Even more data can be analyze, such us race and ethnicity could be incorporated to the statistics of the election.
