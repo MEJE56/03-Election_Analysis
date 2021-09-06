@@ -1,7 +1,7 @@
 # Election_Analysis
 
 ## Project Overview
-A Colorado Board of Elections has requested an election analysis to complete tehe election audit of the latest congressional election, requesting the following task:
+A Colorado Board of Elections has requested an analysis to complete the election audit of the latest congressional election, the scope as follows:
 
 1. Total number of votes cast
 2. The voter turnout for each county
@@ -36,5 +36,7 @@ A Colorado Board of Elections has requested an election analysis to complete teh
   * *Diana DeGette*, who received 73.8% of the vote and 272,892 number of votes
 
 ## Conclusions Proposal
-The project enable the team get familiar with the data of the election result for Colorado state, while developing the team was able to develop a standard code *called PyPoll* to read and analyse the data. 
-PyPoll can be easily reused make broader analysis. The set of data elections_reulst.csv contained 3 candidates, 3 counties and 369,711 register (votes), this items can be extrapolated to more counties (the whole estate), more candidates, and why not take care of a Presidetial election. Even more data can be analyze, such us race and ethnicity could be incorporated to the statistics of the election.
+The project enable the team get familiar with the data of the congressional election results for Colorado state, while developing the team was able to develop a standard code *called PyPoll* to read and analyse the data. 
+PyPoll can be easily reused make broader analysis. The set of data elections_reulst.csv contained 3 candidates, 3 counties and 369,711 register (votes), this items can be extrapolated to bigger or smaller sets of data, more counties (the whole estate), more candidates, and why not take care of a Presidetial election; even more data can be analyze, such us race and ethnicity could be incorporated to the statistics of the election.
+With Pypoll, you will leverage on standard code to analyse large set of data, inrease stadardization, reduce development time as one single standard code can be easily modify to expand the scope, less costs as you won't have to write a code from scratch. 
+
