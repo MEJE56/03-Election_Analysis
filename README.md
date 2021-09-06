@@ -1,4 +1,4 @@
-# Election_Analysis
+# Election Analysis with PyPoll
 
 ## Project Overview
 A Colorado Board of Elections has requested an analysis to complete the election audit of the latest congressional election, the scope as follows:
